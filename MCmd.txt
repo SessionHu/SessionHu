@@ -1,0 +1,2 @@
+/say 盗版32K
+/give @s minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:19,lvl:16},{id:20,lvl:32767},{id:21,lvl:32},{id:22,lvl:32767},{id:34,lvl:32767},]}
