@@ -6,6 +6,6 @@
 - Minecraft服务器（请使用LittleSkin鉴权登录）
   - xhuoffice.ml  
 - 这里有免费的V2Ray订阅地址
-  - [https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt](https://ghproxy.com/https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt)t)
+  - [https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt](https://ghproxy.com/https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt))
 
 <a href="https://github.com/SessionHu/"><img height=256px src="./profile-3d-contrib/profile-green-animate.svg"></a>
