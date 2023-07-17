@@ -20,9 +20,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git config user.name "SessionHu"
+          git config user.email "102411014+SessionHu@users.noreply.github.com"
+          git remote set-url origin https://SessionHu:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add -A .
           git commit -m "generated"
           git push
