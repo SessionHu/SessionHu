@@ -12,4 +12,4 @@
 - 这里有免费的V2Ray订阅地址
   - [https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt](https://ghproxy.com/https://github.com/SessionHu/SessionHu/raw/main/V2RaySubInfo.txt)
 
-<a href="https://github.com/SessionHu/"><img height=256px src="./profile-3d-contrib/profile-green-animate.svg"></a>
+<a href="https://github.com/SessionHu/"><img height=256px src="https://ghproxy.com/https://github.com/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg"></a>
