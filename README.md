@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact)  
 </a>
 
-<a href="https://github.com/SessionHu/"><img height=256px src="https://ghproxy.com/https://github.com/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg"></a>
+<a href="https://github.com/SessionHu/"><img height=256px src="https://git.xhuoffice.tk/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg"></a>
