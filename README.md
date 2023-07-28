@@ -20,6 +20,6 @@
 
 <div align="center" width="700px">
   <a href="https://github.com/SessionHu/">
-    <img height=500px src="https://git.xhuoffice.tk/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img width="700px" src="https://git.xhuoffice.tk/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg" />
   </a>
 </div>
