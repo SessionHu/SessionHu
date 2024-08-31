@@ -12,7 +12,8 @@
 <div align="center" width="700px">
   <a href="https://github.com/SessionHu/">
     <img src="https://github-readme-stats.vercel.app/api?username=SessionHu&locale=cn&count_private=true&show_icons=true" height="165px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact" />
+    <img src="https://profile-counter.glitch.me/SessionHu/count.svg" width="0px" />  
   </a>
 </div>
 
@@ -20,6 +21,6 @@
 
 <div align="center" width="700px">
   <a href="https://github.com/SessionHu/">
-    <img width="700px" src="https://git.xhuoffice.tk/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img width="700px" src="https://github.com/SessionHu/SessionHu/raw/main/profile-3d-contrib/profile-green-animate.svg" />
   </a>
 </div>
