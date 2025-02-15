@@ -1,0 +1,31 @@
+127.0.0.1	localhost
+127.0.1.1	xhu-i5420.sessx6cf.org	xhu-i5420
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+# GitHub Start
+140.82.113.3	github.com
+140.82.112.5	api.github.com
+140.82.113.4	gist.github.com
+140.82.114.4	www.github.com
+151.101.193.194	github.global.ssl.fastly.net
+185.199.108.154 github.githubassets.com
+185.199.110.153	assets-cdn.github.com
+185.199.110.133	raw.githubusercontent.com
+185.199.110.133	gist.githubusercontent.com
+185.199.110.133	cloud.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
+185.199.110.133	avatars.githubusercontent.com
+185.199.110.133	avatars0.githubusercontent.com
+185.199.110.133	avatars1.githubusercontent.com
+185.199.110.133	avatars2.githubusercontent.com
+185.199.110.133	avatars3.githubusercontent.com
+185.199.110.133	avatars4.githubusercontent.com
+185.199.110.133	avatars5.githubusercontent.com
+185.199.110.133	avatars6.githubusercontent.com
+185.199.110.133	avatars7.githubusercontent.com
+185.199.110.133	avatars8.githubusercontent.com
+# GitHub End

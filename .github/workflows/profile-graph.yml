@@ -1,0 +1,34 @@
+name: Profile graphs
+
+on:
+  schedule: # 0:00 HKT == 16:00 UTC
+    - cron: "0 16 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  profile-graphs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Clone Repo
+        uses: actions/checkout@v3
+      - name: generate-github-profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          mkdir hidden
+          mv profile-3d-contrib hidden
+          git init
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git remote set-url origin https://user:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add -A .
+          git commit -m "generated"
+          git push origin hidden
