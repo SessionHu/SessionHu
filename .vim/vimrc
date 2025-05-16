@@ -5,9 +5,6 @@ set shiftwidth=2
 set expandtab
 set cindent
 
-syntax on
-colorscheme evening
-
 set number
 set relativenumber
 set cursorline
@@ -43,3 +40,7 @@ let g:airline_right_alt_sep=''
 Plug 'wolandark/vim-loremipsum'
 
 call plug#end()
+
+syntax on
+colorscheme evening
+hi Normal ctermbg=NONE
