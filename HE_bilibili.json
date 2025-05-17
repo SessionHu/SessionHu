@@ -1,0 +1,187 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "ExClimbWuzhi",
+			"ruleType": "cancel",
+			"matchType": "regexp",
+			"pattern": "ExClimbWuzhi",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "data.bilibili.com",
+			"ruleType": "cancel",
+			"matchType": "domain",
+			"pattern": "data.bilibili.com",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://cm.bilibili.com/cm/api/fees/pc",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://cm.bilibili.com/cm/api/fees/pc",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://s1.hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js",
+			"ruleType": "cancel",
+			"matchType": "url",
+			"pattern": "https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/vip/ads/material/report",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://api.bilibili.com/x/vip/ads/material/report",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/seed/log/meta/reporter.js",
+			"ruleType": "cancel",
+			"matchType": "url",
+			"pattern": "https://s1.hdslb.com/bfs/seed/log/meta/reporter.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/web-frontend/data/collector",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://api.bilibili.com/x/web-frontend/data/collector",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/kv-frontend/namespace/data",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://api.bilibili.com/x/kv-frontend/namespace/data",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js",
+			"ruleType": "redirect",
+			"matchType": "url",
+			"pattern": "https://s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "data:,void(0)"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js",
+			"ruleType": "redirect",
+			"matchType": "url",
+			"pattern": "https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "data:,void(0)"
+		},
+		{
+			"enable": true,
+			"name": "https://security.bilibili.com/csp_report",
+			"ruleType": "redirect",
+			"matchType": "prefix",
+			"pattern": "https://security.bilibili.com/csp_report",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "data:,"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/frontend/finger/fpfmc",
+			"ruleType": "cancel",
+			"matchType": "prefix",
+			"pattern": "https://api.bilibili.com/x/frontend/finger/fpfmc",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/fingerPrint.js",
+			"ruleType": "redirect",
+			"matchType": "url",
+			"pattern": "https://s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/fingerPrint.js",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "data:,void(0)"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/frontend/finger/spi",
+			"ruleType": "cancel",
+			"matchType": "url",
+			"pattern": "https://api.bilibili.com/x/frontend/finger/spi",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		},
+		{
+			"enable": true,
+			"name": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi",
+			"ruleType": "cancel",
+			"matchType": "url",
+			"pattern": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi",
+			"exclude": "",
+			"group": "bilibili",
+			"isFunction": false,
+			"action": "cancel"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": [],
+	"receiveBody": []
+}
