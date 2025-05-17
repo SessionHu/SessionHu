@@ -44,3 +44,4 @@ call plug#end()
 syntax on
 colorscheme evening
 hi Normal ctermbg=NONE
+hi EndOfBuffer ctermbg=NONE
