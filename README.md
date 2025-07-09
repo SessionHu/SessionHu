@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SessionHu&locale=cn&count_private=true&show_icons=true" height="165px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact" />
     <img src="https://api.githubtrends.io/user/svg/SessionHu/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic" />
-    <img src="https://profile-counter.glitch.me/SessionHu/count.svg" width="0px" />  
+    <img src="https://profile-counter.glitch.me/SessionHu/count.svg" width="0" height="0" />  
   </a>
 </div>
 
