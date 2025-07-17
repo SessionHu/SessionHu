@@ -4,6 +4,11 @@ set softtabstop=2
 set expandtab
 set cindent
 
+augroup filetype_settings
+  autocmd!
+  autocmd FileType make setlocal noexpandtab tabstop=4 shiftwidth=4
+augroup END
+
 " check env & set clipboard
 if $GLFW_IM_MODULE != ""
   set clipboard=unnamedplus
