@@ -16,9 +16,9 @@
 
 <div align="center" width="700px">
   <a href="https://github.com/SessionHu/">
-    <img src="https://github-readme-stats.vercel.app/api?username=SessionHu&locale=cn&count_private=true&show_icons=true" height="165px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact" />
-    <img src="https://api.githubtrends.io/user/svg/SessionHu/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SessionHu&locale=cn&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SessionHu&locale=cn&layout=compact&langs_count=20" />
+    <img src="https://api.githubtrends.io/user/svg/SessionHu/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic" width="0" height="0" />
     <img src="https://profile-counter.glitch.me/SessionHu/count.svg" width="0" height="0" />  
   </a>
 </div>
