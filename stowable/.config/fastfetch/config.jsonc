@@ -106,7 +106,8 @@
     {
       "type": "disk",
       "key": "│ ├",
-      "keyColor": "green"
+      "keyColor": "green",
+      "format": "{1} / {2} ({3}) - {9} {?11}󰌾 {?}󰄶 {20}"
     },
     {
       "type": "memory",
@@ -126,7 +127,8 @@
     {
       "type": "display",
       "key": "│ └󰍹",
-      "keyColor": "green"
+      "keyColor": "green",
+      "format": "{1}x{2}{?21} @ {21}x{?}{?12} in {12}\"{?}{?3}, {3} Hz{?}{?7} [{7}]{?}{?15} [HDR]{?}{?9} *{?} 󰄶 {6}"
     },
     {
       "type": "sound",
