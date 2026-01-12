@@ -123,7 +123,7 @@
       "type": "uptime",
       "key": "│ ├󰅐",
       "keyColor": "green",
-      "format": "{?7}{7} years, {?}{?8}{8} days, {?}{?2}{2} hours, {?}{?3}{3} mins, {?}{4} secs"
+      "format": "{?1}{1} days, {?}{?2}{2} hours, {?}{?3}{3} mins, {?}{?4}{4} secs"
     },
     {
       "type": "display",
