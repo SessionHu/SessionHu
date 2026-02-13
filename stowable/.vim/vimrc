@@ -54,3 +54,5 @@ syntax on
 colorscheme evening
 hi Normal ctermbg=NONE
 hi EndOfBuffer ctermbg=NONE
+
+set colorcolumn=80,120
