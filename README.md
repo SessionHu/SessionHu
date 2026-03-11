@@ -1,3 +1,6 @@
+> Forget about what others say on you, because YOU are unique. You, are your very own Hikari.  
+> -- Project PhigrOS
+
 ## 统计 / STAT
 
 <div align="center">
@@ -21,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/SessionHu/">
-    <img width="780" alt="skillicons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,sass,c,d,java,haskell,linux,debian,ubuntu,arch,android,raspberrypi,chromium,firefox,chromedevtools,kde,i3,htop,kitty,bash,regex,react,jquery,vite,websocket,pwa,md,json,yaml,nodejs,npm,yarn,webpack,maven,opensource,git,gitbash,github,gitea,githubpages,githubactions,codeberg,vim,dn42,nginx,terminal,wsl,podman,docker,kdenlive,inkscape,gimp,obs,tmux,systemd,ffmpeg,qemu,ipfs,s3,mastodon,wireshark,telegram,element,duckduckgo,ethereum,cloudflare,workers&theme=light&perline=10" />
+    <img width="780" alt="skillicons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,sass,c,d,java,linux,debian,firefox,react,jquery,vite,nodejs,webpack,maven,opensource,git,vim,dn42,nginx,podman,docker,ffmpeg,cloudflare&theme=light&perline=9" />
   </a>
 </div>
 
@@ -32,4 +35,4 @@ and more...
 - **blog**: <https://sess.xhustudio.eu.org/>
 - **dn42**: <https://sess.dn42/> || <https://dn42.xhustudio.eu.org/>
 - **mail**: *`sess at sess.dn42`* || *`sessionhu at outlook.com`*
-- **cv**: [ipfs://QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv](https://dget.top/ipfs/QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv)
+- **cv**: [ipfs://QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv](https://dget.top/ipfs/QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv "小孩子不懂事目害写的")
