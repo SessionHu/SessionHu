@@ -35,4 +35,4 @@ and more...
 - **blog**: <https://sess.xhustudio.eu.org/>
 - **dn42**: <https://sess.dn42/> || <https://dn42.xhustudio.eu.org/>
 - **mail**: *`sess at sess.dn42`* || *`sessionhu at outlook.com`*
-- **cv**: [ipfs://QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv](https://dget.top/ipfs/QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv "小孩子不懂事目害写的")
+<!--- **cv**: [ipfs://QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv](https://dget.top/ipfs/QmXJW3wv1Nm2gkb4izVpuA9hBS9JNqQeEfv5hWxrrwnwcv "小孩子不懂事目害写的")-->
